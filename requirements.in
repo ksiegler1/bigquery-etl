@@ -6,7 +6,7 @@ pytest-docstyle==1.5.0
 pytest-flake8==1.0.4
 pytest-mypy==0.4.2
 pytest-xdist==1.31.0
-pytest==5.3.5
+pytest==5.4.1
 PyYAML==5.3
 sqlparse==0.3.0
 mozilla_schema_generator==0.1.4
